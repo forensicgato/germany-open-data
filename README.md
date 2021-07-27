@@ -3,6 +3,10 @@ examples from open-APIs
 
 ## API from ["API-Portal des Bundes"](https://bund.dev/)
 
+### [RKI Risikogebiete](https://risikogebiete.api.bund.dev/)
+
+- [(Global) Risikogebiete](https://api.einreiseanmeldung.de/reisendenportal/risikogebiete)
+
 ### [NINA](https://nina.api.bund.dev/)
 
 - [Gebietsschlüssel](https://www.xrepository.de/api/xrepository/urn:de:bund:destatis:bevoelkerungsstatistik:schluessel:rs_2021-07-31/download/Regionalschl_ssel_2021-07-31.json) 
