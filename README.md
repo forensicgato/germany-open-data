@@ -33,3 +33,15 @@ examples from open-APIs
 
 - [Requires free/public API-Key](https://dip.bundestag.de/%C3%BCber-dip/hilfe/api)
 - [API documentation](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf)
+
+## [Open Data ÖPNV](https://www.opendata-oepnv.de/ht/de/willkommen)
+
+### EFA XML-Schnittstelle des VRR
+- [API-Documentation](https://www.opendata-oepnv.de/fileadmin/Dokumentationen_etc/VRR/VRR_20181119_Dokumentation_XML_Schnittstelle_V1.3.pdf)
+
+## [Rhein-Main-Verkehrsverbund](https://www.rmv.de/)
+
+### RMV Open Data
+
+- [Information board build service](https://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?L=vs_anzeigetafel)
+- [RMV API](https://www.rmv.de/hapi/)
