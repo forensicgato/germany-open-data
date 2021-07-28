@@ -1,5 +1,10 @@
-# open-API
-examples from open-APIs
+# Germany Open Data
+List of various APIs/Open Data sources in relation to Germany.
+
+# Contribute
+This repo is open for contribution of every kind
+
+# List
 
 ## API from ["API-Portal des Bundes"](https://bund.dev/)
 
