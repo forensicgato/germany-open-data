@@ -1,7 +1,9 @@
 # Germany Open Data
+
 List of various APIs/Open Data sources in relation to Germany.
 
 # Contribute
+
 - This repo is open for contribution of every kind.
   - Design/Layout specialists are highly appreciated!
 
