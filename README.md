@@ -2,14 +2,32 @@
 List of various APIs/Open Data sources in relation to Germany.
 
 # Contribute
-This repo is open for contribution of every kind
+- This repo is open for contribution of every kind.
+  - Design/Layout specialists are highly appreciated!
+
+# Roadmap
+
+- Extend list of sources
+- Showcase Example projects based on open data
+- distribute open data knowledge
 
 # List
 
-- [API from "API-Portal des Bundes"](https://github.com/ForensicGato/germany-open-data#api-from-api-portal-des-bundes)
+- [API-Portal des Bundes](https://github.com/ForensicGato/germany-open-data#api-portal-des-bundes)
   - [RKI Risikogebiete](https://github.com/ForensicGato/germany-open-data#rki-risikogebiete)
+  - [NINA](https://github.com/ForensicGato/germany-open-data#nina)
+  - [DWD](https://github.com/ForensicGato/germany-open-data#dwd)
+  - [Autobahn API](https://github.com/ForensicGato/germany-open-data#autobahn-api)
+  - [Deutscher Bundestag (DIP](https://github.com/ForensicGato/germany-open-data#deutscher-bundestag-dip)
 
-## API from ["API-Portal des Bundes"](https://bund.dev/)
+- [Open Data ÖPNV](https://github.com/ForensicGato/germany-open-data#open-data-%C3%B6pnv)
+  - [EFA XML-Schnittstelle des VRR](https://github.com/ForensicGato/germany-open-data#efa-xml-schnittstelle-des-vrr)
+
+- [Rhein-Main-Verkehrsverbund](https://github.com/ForensicGato/germany-open-data#rhein-main-verkehrsverbund)
+  - [RMV Open Data](https://github.com/ForensicGato/germany-open-data#rmv-open-data)
+
+
+## [API-Portal des Bundes](https://bund.dev/)
 
 ### [RKI Risikogebiete](https://risikogebiete.api.bund.dev/)
 
