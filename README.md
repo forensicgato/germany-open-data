@@ -26,6 +26,9 @@ List of various APIs/Open Data sources in relation to Germany.
 - [Rhein-Main-Verkehrsverbund](https://github.com/ForensicGato/germany-open-data#rhein-main-verkehrsverbund)
   - [RMV Open Data](https://github.com/ForensicGato/germany-open-data#rmv-open-data)
 
+- [FragDenStaat](https://github.com/ForensicGato/germany-open-data#fragdenstaat)
+  - [FragDenStaat API](https://github.com/ForensicGato/germany-open-data#fragdenstaat-api)
+
 
 ## [API-Portal des Bundes](https://bund.dev/)
 
@@ -71,3 +74,11 @@ List of various APIs/Open Data sources in relation to Germany.
 
 - [Information board build service](https://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?L=vs_anzeigetafel)
 - [RMV API](https://www.rmv.de/hapi/)
+
+## [FragDenStaat](https://fragdenstaat.de)
+
+### [FragDenStaat API](https://fragdenstaat.de/api/)
+
+- [API Root](https://fragdenstaat.de/api/v1/)
+- [Schema](https://fragdenstaat.de/api/v1/schema/)
+- [GitHub Topic](https://github.com/topics/fragdenstaat)
