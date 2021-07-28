@@ -13,21 +13,21 @@ List of various APIs/Open Data sources in relation to Germany.
 
 # List
 
-- [API-Portal des Bundes](https://github.com/ForensicGato/germany-open-data#api-portal-des-bundes)
-  - [RKI Risikogebiete](https://github.com/ForensicGato/germany-open-data#rki-risikogebiete)
-  - [NINA](https://github.com/ForensicGato/germany-open-data#nina)
-  - [DWD](https://github.com/ForensicGato/germany-open-data#dwd)
-  - [Autobahn API](https://github.com/ForensicGato/germany-open-data#autobahn-api)
-  - [Deutscher Bundestag (DIP](https://github.com/ForensicGato/germany-open-data#deutscher-bundestag-dip)
+- [API-Portal des Bundes](https://github.com/forensicgato/germany-open-data#api-portal-des-bundes)
+  - [RKI Risikogebiete](https://github.com/forensicgato/germany-open-data#rki-risikogebiete)
+  - [NINA](https://github.com/forensicgato/germany-open-data#nina)
+  - [DWD](https://github.com/forensicgato/germany-open-data#dwd)
+  - [Autobahn API](https://github.com/forensicgato/germany-open-data#autobahn-api)
+  - [Deutscher Bundestag (DIP](https://github.com/forensicgato/germany-open-data#deutscher-bundestag-dip)
 
-- [Open Data ÖPNV](https://github.com/ForensicGato/germany-open-data#open-data-%C3%B6pnv)
-  - [EFA XML-Schnittstelle des VRR](https://github.com/ForensicGato/germany-open-data#efa-xml-schnittstelle-des-vrr)
+- [Open Data ÖPNV](https://github.com/forensicgato/germany-open-data#open-data-%C3%B6pnv)
+  - [EFA XML-Schnittstelle des VRR](https://github.com/forensicgato/germany-open-data#efa-xml-schnittstelle-des-vrr)
 
-- [Rhein-Main-Verkehrsverbund](https://github.com/ForensicGato/germany-open-data#rhein-main-verkehrsverbund)
-  - [RMV Open Data](https://github.com/ForensicGato/germany-open-data#rmv-open-data)
+- [Rhein-Main-Verkehrsverbund](https://github.com/forensicgato/germany-open-data#rhein-main-verkehrsverbund)
+  - [RMV Open Data](https://github.com/forensicgato/germany-open-data#rmv-open-data)
 
-- [FragDenStaat](https://github.com/ForensicGato/germany-open-data#fragdenstaat)
-  - [FragDenStaat API](https://github.com/ForensicGato/germany-open-data#fragdenstaat-api)
+- [FragDenStaat](https://github.com/forensicgato/germany-open-data#fragdenstaat)
+  - [FragDenStaat API](https://github.com/forensicgato/germany-open-data#fragdenstaat-api)
 
 
 ## [API-Portal des Bundes](https://bund.dev/)
@@ -66,6 +66,7 @@ List of various APIs/Open Data sources in relation to Germany.
 ## [Open Data ÖPNV](https://www.opendata-oepnv.de/ht/de/willkommen)
 
 ### EFA XML-Schnittstelle des VRR
+
 - [API-Documentation](https://www.opendata-oepnv.de/fileadmin/Dokumentationen_etc/VRR/VRR_20181119_Dokumentation_XML_Schnittstelle_V1.3.pdf)
 
 ## [Rhein-Main-Verkehrsverbund](https://www.rmv.de/)
