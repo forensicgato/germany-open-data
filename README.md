@@ -20,7 +20,8 @@ List of various APIs/Open Data sources in relation to Germany.
   - [NINA](https://github.com/forensicgato/germany-open-data#nina)
   - [DWD](https://github.com/forensicgato/germany-open-data#dwd)
   - [Autobahn API](https://github.com/forensicgato/germany-open-data#autobahn-api)
-  - [Deutscher Bundestag (DIP](https://github.com/forensicgato/germany-open-data#deutscher-bundestag-dip)
+  - [Deutscher Bundestag (DIP)](https://github.com/forensicgato/germany-open-data#deutscher-bundestag-dip)
+  - [Auswärtiges Amt OpenData Schnittstelle](https://github.com/forensicgato/germany-open-data#auswaertiges-amt-openData-schnittstelle)
 
 - [Open Data ÖPNV](https://github.com/forensicgato/germany-open-data#open-data-%C3%B6pnv)
   - [EFA XML-Schnittstelle des VRR](https://github.com/forensicgato/germany-open-data#efa-xml-schnittstelle-des-vrr)
@@ -64,6 +65,10 @@ List of various APIs/Open Data sources in relation to Germany.
 
 - [Requires free/public API-Key](https://dip.bundestag.de/%C3%BCber-dip/hilfe/api)
 - [API documentation](https://dip.bundestag.de/documents/informationsblatt_zur_dip_api_v01.pdf)
+
+### [Auswärtiges Amt OpenData Schnittstelle](https://travelwarning.api.bund.dev/)
+
+- [Travel warning and safety information](https://www.auswaertiges-amt.de/opendata/travelwarning)
 
 ## [Open Data ÖPNV](https://www.opendata-oepnv.de/ht/de/willkommen)
 
