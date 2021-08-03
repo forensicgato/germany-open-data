@@ -21,7 +21,7 @@ List of various APIs/Open Data sources in relation to Germany.
   - [DWD](https://github.com/forensicgato/germany-open-data#dwd)
   - [Autobahn API](https://github.com/forensicgato/germany-open-data#autobahn-api)
   - [Deutscher Bundestag (DIP)](https://github.com/forensicgato/germany-open-data#deutscher-bundestag-dip)
-  - [Auswärtiges Amt OpenData Schnittstelle](https://github.com/forensicgato/germany-open-data#auswaertiges-amt-openData-schnittstelle)
+  - [Auswärtiges Amt OpenData Schnittstelle](https://github.com/forensicgato/germany-open-data#auswärtiges-amt-openData-schnittstelle)
 
 - [Open Data ÖPNV](https://github.com/forensicgato/germany-open-data#open-data-%C3%B6pnv)
   - [EFA XML-Schnittstelle des VRR](https://github.com/forensicgato/germany-open-data#efa-xml-schnittstelle-des-vrr)
