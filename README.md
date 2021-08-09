@@ -15,7 +15,7 @@ List of various APIs/Open Data sources in relation to Germany.
 
 # List
 
-- [API-Portal bund.dev](https://github.com/forensicgato/germany-open-data#api-portal-des-bundes)
+- [API-Portal bund.dev](https://github.com/forensicgato/germany-open-data#api-portal-bunddev)
   - [RKI Risikogebiete](https://github.com/forensicgato/germany-open-data#rki-risikogebiete)
   - [NINA](https://github.com/forensicgato/germany-open-data#nina)
   - [DWD](https://github.com/forensicgato/germany-open-data#dwd)
