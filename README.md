@@ -31,6 +31,7 @@ List of various APIs/Open Data sources in relation to Germany.
 
 - [FragDenStaat](https://github.com/forensicgato/germany-open-data#fragdenstaat)
   - [FragDenStaat API](https://github.com/forensicgato/germany-open-data#fragdenstaat-api)
+- [Invokely](https://github.com/forensicgato/germany-open-data#invokely)
 
 
 ## [API-Portal bund.dev](https://bund.dev/)
@@ -90,3 +91,10 @@ List of various APIs/Open Data sources in relation to Germany.
 - [API Root](https://fragdenstaat.de/api/v1/)
 - [Schema](https://fragdenstaat.de/api/v1/schema/)
 - [GitHub Topic](https://github.com/topics/fragdenstaat)
+
+## [Invokely](https://invokely.ai/)
+
+Official statistics through a REST API and MCP server, with a citable source on each figure. Germany is available for Eurostat indicators such as working-age population; coverage varies by indicator. Free includes 500 MCP calls per month, and full series history and CSV, Excel, and chart exports are available on all plans. The no-account MCP trial allows 25 calls per day per IP. REST data calls require Builder (€19/month), Pro (€79/month), or prepaid credits (€5 per 1,000 calls, €10 minimum).
+
+- [Developer documentation](https://invokely.ai/docs)
+- [Germany example: population aged 15 to 64](https://invokely.ai/en/population-15-64/germany.md)
